@@ -131,7 +131,7 @@ Some cases to illustrate the curation process.
 
 ### Can I rewrite your sentences and paragraphs?
 
-Yes. I'm a non-native speaker, so some of my writings might be a little bit fancy. If you can propose a shorter, to the point, and accurate version of my initial text, go for it! These improvements adds a lot of readability for both kind of readers.
+Yes. I'm a non-native speaker, so some of my writings might be a little bit fancy. If you can propose a shorter, to the point, and accurate version of my initial text, go for it! These improvements [adds a lot of readability for both kind of readers](https://github.com/kdeldycke/awesome-falsehood/pull/105).
 
 ### Can I propose YouTube videos for the list?
 
