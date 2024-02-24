@@ -190,3 +190,16 @@ So for as set of multiple overlapping projects, we will consider commercial ones
 ### How can I force a link into the list?
 
 If your contribution has been declined, there is a way to bypass the curation rules. You can [purchase a sponsorship](https://github.com/sponsors/kdeldycke) and have your product, logo and link at the top of this repository! 🤗 Like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386).
+
+
+## FAQ (falsehoods)
+
+This questions are specifics to the [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) project.
+
+### Why don't you copy the falsehoods in the list?
+
+This might be a good idea to compile all falsehoods in the repository. It would allow the community to maintain them, and enrich them. It could also improve the overall quality as most external articles don't make the effort to illustrate or explain why a falsehood is a falsehood.
+
+But that is a big endeavor, so to keep things simple, we just make a collection of external articles in this list. In the mean time, if you'd like to add falsehoods, I will ask potential contributors to [host them elsewhere](https://github.com/kdeldycke/awesome-falsehood/issues/46).
+
+Also, if we had to host the raw falsehoods in this repository, we might have to [check on the licence and seek permission from the original author](https://github.com/kdeldycke/awesome-falsehood/issues/24#issuecomment-354112401).
