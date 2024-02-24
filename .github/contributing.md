@@ -187,6 +187,20 @@ These alternatives don't need to be better. They qualify if they're good enough 
 
 So for as set of multiple overlapping projects, we will consider commercial ones as duplicates and remove them, to keep the list lean.
 
+### Why my link was rejected?
+
+If your link was rejected, it must have been motivated and explained to the contributor as a comment to your PR.
+
+Some reasons for rejection, which often overlaps, includes:
+- deviance from these contribution guidelines
+- violation of the [code of conduct](code-of-conduct.md)
+- duplicate content
+- lack of motivation in what the new link adds to the existing corpus
+- lack of originality
+- overcrowded section that [needs more curation than additional content](https://github.com/kdeldycke/awesome-iam/pull/76)
+- too many commercially-sponsored content only proposed for SEO
+- lack of feedback from the contributor on raised questions
+
 ### How can I force a link into the list?
 
 If your contribution has been declined, there is a way to bypass the curation rules. You can [purchase a sponsorship](https://github.com/sponsors/kdeldycke) and have your product, logo and link at the top of this repository! 🤗 Like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386).
