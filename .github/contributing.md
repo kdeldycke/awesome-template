@@ -198,7 +198,7 @@ Some reasons for rejection, which often overlaps, includes:
 - lack of motivation in what the new link adds to the existing corpus
 - lack of originality
 - overcrowded section that [needs more curation than additional content](https://github.com/kdeldycke/awesome-iam/pull/76)
-- too many commercially-sponsored content only proposed for SEO
+- [commercially-sponsored content only proposed for SEO](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
 - lack of feedback from the contributor on raised questions
 
 ### How can I force a link into the list?
