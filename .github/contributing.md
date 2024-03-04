@@ -260,7 +260,7 @@ Some reasons for rejection, which often overlaps, includes:
 
 If your contribution has been declined, there is a way to bypass the curation rules. You can [purchase a sponsorship](https://github.com/sponsors/kdeldycke) and have your product, logo and link at the top of this repository! 🤗 Like [Descope did for a year](https://twitter.com/kdeldycke/status/1676963147104784386) on the [awesome IAM list](https://twitter.com/kdeldycke/status/1676963147104784386).
 
-## FAQ (falsehoods)
+## FAQ for [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood)
 
 This questions are specifics to the [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) project.
 
