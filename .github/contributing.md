@@ -55,7 +55,7 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Sections **are not in the alphabetical order**, to provide a progression, from general to specific topics.
 
-> [!IMPORTANT]
+> \[!IMPORTANT\]
 > In `awesome-falsehood`, sections **are in alphabetical order**, as all topics are independent from each others.
 
 - Section might feature one paragraph introduction and a figure (graph, drawing, photo).
@@ -64,7 +64,7 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - URLs must use HTTPs protocol, if available.
 
-> [!IMPORTANT]
+> \[!IMPORTANT\]
 > In `awesome-falsehood`, link titlea must be stripped out of the "*Programmers believe*" part to keep it compact.
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
