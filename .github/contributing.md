@@ -59,11 +59,17 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - Section might feature one paragraph introduction and a figure (graph, drawing, photo).
 
+### URL
+
+- Use HTTPs protocol, if available.
+
+- Must be reachable by CI/CD jobs. If the domain return `40x` errors for rate-limiting or content protection, replace it with a stable link:
+
+  - [`sci-hub.st`](https://sci-hub.st) for research papers
+  - [`archive.ph`](https://archive.ph) for news articles
+  - [`archive.org`](https://archive.org) for anything else
+
 ### Item title
-
-- URLs must use HTTPs protocol, if available.
-
-- URLs must be reachable by CI/CD jobs. If the domain return `40x` errors for rate-limitating or content protection, replace it with an `archive.org` link.
 
 - No `“` and `”` curved quotation marks. This is reserved for original content quotation in descriptions.
 
