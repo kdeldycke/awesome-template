@@ -102,31 +102,6 @@ If one of these rule conflict with the linter, the linter's rule should takes pr
 
 - An additional link in the description is allowed. This must be limited to some rare cases. Like pointing to a bigger concept, an acronym definition, or reference material (book, biography, …).
 
-### CLI helpers
-
-One-liners to fix-up some common formatting mistakes. Use with great caution and always double-check and edit the results.
-
-- Replaces star list item markers by dashes:
-
-  ```shell-session
-  $ sed -i 's/^* /- /g' ./README.md
-  ```
-
-- Replaces typographic quotes with ASCII ones:
-
-  ```shell-session
-  $ sed -i "s/‘/\'/g" ./readme.md
-  $ sed -i "s/’/\'/g" ./readme.md
-  ```
-
-- Forces quotes to end with a dot:
-
-  ```shell-session
-  $ sed -i 's/`$/`\./g' ./readme.md
-  ```
-
-[Other one-liners are available](https://kevin.deldycke.com/2006/text-date-document-processing-commands/) on my blog.
-
 ## Editorial line
 
 The general editorial line for each list is [hinted in their introduction](https://github.com/kdeldycke/awesome-template#readme).
