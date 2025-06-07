@@ -15,7 +15,7 @@ This new link is special because...
 <!-- Please indicate how you are associated with the new proposed content: -->
 
 - [ ] I am the author of the article or project
-- [ ] I am working for/with the company which is publishing the article or project
+- [ ] I am working for/with the company publishing the article or project
 - [ ] I'm just a rando who stumbled upon this via social networks
 
 ### Self checks
