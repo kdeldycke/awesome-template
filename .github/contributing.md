@@ -119,47 +119,31 @@ Items are roughly ordered like so:
 
 ### [`awesome-falsehood`](https://github.com/kdeldycke/awesome-falsehood): candidates
 
-Before contributing, make sure the new link you'd like to add is a good
-candidate.
+Before contributing, make sure the new link you'd like to add is a good candidate.
 
-Here is a non-restrictive list of items which are good candidates for inclusion
-in the `awesome-falsehood` list.
+Here is a non-restrictive list of items which are good candidates for inclusion in the `awesome-falsehood` list.
 
 #### Falsehood articles
 
-Articles following the *falsehood* schema are prime candidates for inclusion in
-this awesome list.
+Articles following the *falsehood* schema are prime candidates for inclusion in this awesome list.
 
-These articles starts with the hypothesis that developers have a naive and
-simple view of a domain. Then proceed to list a set of candid assumptions that
-might be held by programmers. Each one is intentionally false, and in their
-best form are illustrated with a counter-example.
+These articles starts with the hypothesis that developers have a naive and simple view of a domain. Then proceed to list a set of candid assumptions that might be held by programmers. Each one is intentionally false, and in their best form are illustrated with a counter-example.
 
-A list of falsehood is crafted as a progression that is designed to refine
-concepts. Having read the whole list of falsehood, the reader should possess a
-better overview of a domain while dispelling its myths, point out common
-pitfalls and demonstrate its subtleties.
+A list of falsehood is crafted as a progression that is designed to refine concepts. Having read the whole list of falsehood, the reader should possess a better overview of a domain while dispelling its myths, point out common pitfalls and demonstrate its subtleties.
 
-*falsehood* articles are, in a sense, a suite of wordy unit-tests covering
-extensive edge-cases provided by real-world usage. The world is messy.
-Discovering a domain to be much more complex than anticipated will lead to
-frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a
-great candidate for that list!
+*falsehood* articles are, in a sense, a suite of wordy unit-tests covering extensive edge-cases provided by real-world usage. The world is messy. Discovering a domain to be much more complex than anticipated will lead to frustrations. And cause flipping tables `(╯°□°)╯︵ ┻━┻`. This is the sign of a great candidate for that list!
 
-Articles featuring items that are applicable to one product (or a service) and
-one only can't be considered as generic enough and should be avoided.
+Articles featuring items that are applicable to one product (or a service) and one only can't be considered as generic enough and should be avoided.
 
 #### Libraries
 
-Programming libraries or modules are good candidates too, if they solve or
-reduce the complexities pointed to by *falsehood* articles above.
+Programming libraries or modules are good candidates too, if they solve or reduce the complexities pointed to by *falsehood* articles above.
 
 That way we can put back tables in place. `┬─┬ ノ( ゜-゜ノ)`
 
 #### Data structures
 
-Data models and structures generic enough to cover and address most of the
-falsehoods are also welcome in this page.
+Data models and structures generic enough to cover and address most of the falsehoods are also welcome in this page.
 
 ## FAQ
 
