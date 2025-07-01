@@ -187,7 +187,7 @@ There is no rush to pre-emptively archive content. Incentives exists for others 
 - Popular content in this list are naturally archived by users who value them.
 - Authors who cares about their content, or benefits from the SEO juice this list provides, have an incentive to keep them available at their original URL.
 
-Despites these incentives, there is still a non-zero chance for content to disappear entirely from the web, with no archived copy in `archive.org`. That's not the end of the world. Maybe the content wasn't worth it, and not good for inclusion in the first place. Think of this edge-case as a natural selection process on content, which helps natural curation.
+Despites these incentives, there is still a non-zero chance for content to disappear entirely from the web, with no [archived copy](#url). That's not the end of the world. Maybe the content wasn't worth it, and not good for inclusion in the first place. Think of this edge-case as a natural selection process on content, which helps natural curation.
 
 ### Why removes inactive GitHub projects?
 
