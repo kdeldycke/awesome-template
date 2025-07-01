@@ -213,14 +213,17 @@ If your link was rejected, it must have been motivated and explained to the cont
 
 Some reasons for rejection, which often overlaps, includes:
 
+- duplicate content
+- lack of originality
+- rehash of existing content
+- no motivation to explain what the new link adds to the existing corpus
+- overcrowded section that [does not need more content, but more curation](https://github.com/kdeldycke/awesome-iam/pull/76)
+- [not generic enough, or too specific to a single product or company](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
+- marketing copy made to juice the list for SEO
+- too much URLs already pointing out to the same commercial domain name
+- lack of feedback from the contributor on raised questions
 - deviance from these contribution guidelines
 - violation of the [code of conduct](code-of-conduct.md)
-- duplicate content
-- lack of motivation in what the new link adds to the existing corpus
-- lack of originality
-- overcrowded section that [needs more curation than additional content](https://github.com/kdeldycke/awesome-iam/pull/76)
-- [commercially-sponsored content only proposed for SEO](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
-- lack of feedback from the contributor on raised questions
 
 ### How can I force a link into the list?
 
