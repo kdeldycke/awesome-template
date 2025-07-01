@@ -220,7 +220,7 @@ $ npx awesome-lint
 * 所在部分内容过于拥挤，[需要的是更好的整理而非添加更多内容](https://github.com/kdeldycke/awesome-iam/pull/76)
 * [不够通用，或过于特定于某一产品或公司](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
 * 带有营销性质的内容，仅为提升 SEO 而添加
-* [已经有太多链接指向同一个商业域名](https://github.com/kdeldycke/awesome-iam/pull/179#issuecomment-3023031941)
+* [已经有太多链接指向同一个商业域名](https://github.com/kdeldycke/awesome-iam/pull/179#issuecomment-3023031941) （两个链接就足够了）
 * 对提出的问题缺乏反馈
 * 偏离了本贡献指南的要求
 * 违反了[行为准则](code-of-conduct.md)
