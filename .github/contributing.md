@@ -220,7 +220,7 @@ Some reasons for rejection, which often overlaps, includes:
 - overcrowded section that [does not need more content, but more curation](https://github.com/kdeldycke/awesome-iam/pull/76)
 - [not generic enough, or too specific to a single product or company](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
 - marketing copy made to juice the list for SEO
-- too much URLs already pointing out to the same commercial domain name
+- [too much URLs already pointing out to the same commercial domain name](https://github.com/kdeldycke/awesome-iam/pull/179#issuecomment-3023031941)
 - lack of feedback from the contributor on raised questions
 - deviance from these contribution guidelines
 - violation of the [code of conduct](code-of-conduct.md)
