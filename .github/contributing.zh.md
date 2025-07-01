@@ -213,17 +213,17 @@ $ npx awesome-lint
 
 拒绝的一些原因，通常重叠，包括：
 
-* 内容重复
-* 缺乏原创性
-* 现有内容的简单重复
-* 没有说明新链接对现有资料库有什么新增价值
-* 所在部分内容过于拥挤，[需要的是更好的整理而非添加更多内容](https://github.com/kdeldycke/awesome-iam/pull/76)
-* [不够通用，或过于特定于某一产品或公司](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
-* 带有营销性质的内容，仅为提升 SEO 而添加
-* [已经有太多链接指向同一个商业域名](https://github.com/kdeldycke/awesome-iam/pull/179#issuecomment-3023031941) （两个链接就足够了）
-* 对提出的问题缺乏反馈
-* 偏离了本贡献指南的要求
-* 违反了[行为准则](code-of-conduct.md)
+- 内容重复
+- 缺乏原创性
+- 现有内容的简单重复
+- 没有说明新链接对现有资料库有什么新增价值
+- 所在部分内容过于拥挤，[需要的是更好的整理而非添加更多内容](https://github.com/kdeldycke/awesome-iam/pull/76)
+- [不够通用，或过于特定于某一产品或公司](https://github.com/kdeldycke/awesome-falsehood/pull/31#issuecomment-407667679)
+- 带有营销性质的内容，仅为提升 SEO 而添加
+- [已经有太多链接指向同一个商业域名](https://github.com/kdeldycke/awesome-iam/pull/179#issuecomment-3023031941) （两个链接就足够了）
+- 对提出的问题缺乏反馈
+- 偏离了本贡献指南的要求
+- 违反了[行为准则](code-of-conduct.md)
 
 ### 我如何强制将链接加入列表？
 
